@@ -1,0 +1,1 @@
+<?php $UIDresult='00.000000-0.000000'; echo $UIDresult; ?>
